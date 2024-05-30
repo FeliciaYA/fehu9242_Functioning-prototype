@@ -1,4 +1,4 @@
-# Functioning prototype
+ # Functioning prototype
 
 ## Interactive description of the work
 
@@ -9,6 +9,7 @@
 #### **Special Effect**: After the music is played, the coloured spheres on the canvas will zoom in and out according to the frequency and volume of the music, creating a dynamic visual effect.。
 
 ## Personal processing
+### I chose to add **audio** technology to the group's prototype to demonstrate the perfect blend of music and visuals. In this way, can create a more vivid and interactive piece that allows the audience to hear the music and see the visual changes simultaneously.
 ### Technology selection and reasons
 
 ### animated

@@ -17,15 +17,15 @@ To make sure that my work was different enough from the rest of the team's, I fo
 
 
 ### Inspiration
-Beeple's digital art often combines music and visual effects to create stunning creations. Two of his works,  **‘2/3 Club Nomadic Night 2 / DJ Khaled and Bruno Mars’** and **‘The Void 001*020,033 / Jay Robinson MIX’** provided me with a wealth of inspiration. The work demonstrates how dynamic visual changes can be driven by audio so that the images are constantly changing in response to the tempo and energy of the music. By borrowing from Beeple in this way, I made the animated spheres in the project change size according to the audio frequency, and the keystrokes enhanced the interactivity of the work.
+Joshua Davis's digital art often combines music and visual effects to create stunning creations. Two of his works,  **‘2/3 Club Nomadic Night 2 / DJ Khaled and Bruno Mars’** and **‘The Void 001*020,033 / Jay Robinson MIX’** provided me with a wealth of inspiration. The work demonstrates how dynamic visual changes can be driven by audio so that the images are constantly changing in response to the tempo and energy of the music. By borrowing from Joshua Davis in this way, I made the animated spheres in the project change size according to the audio frequency, and the keystrokes enhanced the interactivity of the work.
 
 
 ![club](readmeImages/club.gif )
-2/3 Club Nomadic Night 2 / DJ Khaled and Bruno Mars（https://vimeo.com/joshuadavis）
+2/3 Club Nomadic Night 2 / DJ Khaled and Bruno Mars（https://player.vimeo.com/video/203029299?h=82b819a146）
 
 
 ![void](readmeImages/void.gif)
-The Void 001*020,033 / Jay Robinson MIX (https://vimeo.com/joshuadavis)
+The Void 001*020,033 / Jay Robinson MIX ("https://player.vimeo.com/video/468733318?h=4a78a02c21")
 
 
 ### Technical Description

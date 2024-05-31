@@ -28,4 +28,10 @@ The Void 001*020,033 / Jay Robinson MIX (https://vimeo.com/joshuadavis)
 
 
 ### Technical Description
+My overall design idea is all about adding audio effects based on group code.
+
+I load the audio file in `preload()` and create a button in `setup()` to control the play and pause of the audio. Also added the `play_pause()` function to handle the button click stop function.
+
+The `arc()` function draws multiple semicircles and arcs in the pattern, and `fft.analyze()` gets the spectral data and uses it to dynamically adjust the size of the sphere.
+
 
